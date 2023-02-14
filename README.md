@@ -161,7 +161,7 @@ X_test = sc.transform (X_test)
 
 ###SGDClassifier--Accuracy score -69.91%
 
-![Screenshot 2023-02-14 194432](https://user-images.githubusercontent.com/117656346/218763738-05d05810-14b4-493a-b576-c7ae854f5204.png)
+![Screenshot 2023-02-14 194605](https://user-images.githubusercontent.com/117656346/218764246-8149e7c5-bcf0-4e3a-b3a2-451740f5a0fa.png)
 
 
 
